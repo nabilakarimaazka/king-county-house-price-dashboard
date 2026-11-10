@@ -1,6 +1,4 @@
 """
-Reproduce the numbers quoted in the README from the raw King County data.
-
 Usage:
     python analysis/verify_findings.py data/kc_house_data.csv
 
